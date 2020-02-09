@@ -173,14 +173,14 @@ h1 {
     width: 141px;
     margin-bottom: 10px;
 }
-.right-section__ticket_info-desc p:first-child{
+.right-section__ticket_info-desc div:first-child{
     font-size: 12px;
     line-height: 18px;
     letter-spacing: 0.5px;
     text-transform: uppercase;
     color: #A0B0B9;
 }
-.right-section__ticket_info-desc p:last-child {
+.right-section__ticket_info-desc div:last-child {
     font-size: 14px;
     line-height: 21px;
     color: #4A4A4A;
